@@ -60,10 +60,10 @@ Topica Edtech Group, **Customize and scale BigBlueButton**, an open-source video
 
 ## Contributes and supports
 
-- [webrtc-rs: Rust WebRTC library](https://github.com/webrtc-rs/webrtc): fixed performance bug.
-- [str0m: Rust SAN I/O WebRTC Library](https://github.com/algesten/str0m): fixed some bugs and added new features.
-- [releaze-plz: Rust release automation tool](https://github.com/MarcoIeni/release-plz): added new features.
-- [Lumi Vietnam IoT Platform](https://lumi.vn/): Trained technical team for Rust usage and design with SAN I/O mindset. Supported and reviewed the design and implementation of the new generation of Lumi Vietnam IoT Platform.
+- [__webrtc-rs: Rust WebRTC library__](https://github.com/webrtc-rs/webrtc): fixed performance bug.
+- [__str0m: Rust SAN I/O WebRTC Library__](https://github.com/algesten/str0m): fixed some bugs and added new features.
+- [__releaze-plz: Rust release automation tool__](https://github.com/MarcoIeni/release-plz): added new features.
+- [__Lumi Vietnam IoT Platform__](https://lumi.vn/): Trained technical team for Rust usage and design with SAN I/O mindset. Supported and reviewed the design and implementation of the new generation of Lumi Vietnam IoT Platform.
 
 ## Education
 
