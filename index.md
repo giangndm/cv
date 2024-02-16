@@ -17,7 +17,7 @@ Male
 
 ## Currently
 
-Founder at 8xFF (https://github.com/8xff/), open-source decentralized network and media-server.
+Decentralized Network and Media Streaming Engineer at 8xFF (https://github.com/8xff/), open-source decentralized network and media-server.
 
 ### Experienced in
 
@@ -41,7 +41,7 @@ Founder at 8xFF (https://github.com/8xff/), open-source decentralized network an
 8xFF Foundation, **Open-source decentralized network and media server for global scale streaming platform**, all services are built with Rust. The network is applied in the next generation of Lumi Vietnam IoT Platform, which serves nearly 100k concurrent devices.
 
 `2021-2023`
-Bluesea Ltd, Research and develop **a decentralized network for global scale realtime multimedia communications**. Create new routing algorithm which solves latency and scale problems in decentralized networks, especially in realtime multimedia communications. Submit patent for the new routing algorithm. All services are built with Rust.
+Bluesea Network Co.,Ltd, Research and develop **a decentralized network for global scale realtime multimedia communications**. Create new routing algorithm which solves latency and scale problems in decentralized networks, especially in realtime multimedia communications. Submit patent for the new routing algorithm. All services are built with Rust.
 
 `2020`
 OWS Vietnam, Jsc, Designed and developed **A CCTV cloud platform**. Optimized for low-latency and low-spec edge devices with lightweight C++ WebRTC library. Support both live view and recording.
@@ -110,19 +110,19 @@ Nguyen Doan Minh Giang, Nguyen Tuan Anh, Duong Thanh Binh, **Decentralized netwo
 `2023-now`
 **8xFF Foundation**, Hanoi, Vietnam, Founder
 
-- Backend Engineer, Decentralized and Streaming Engineer
+- Decentralized Network and Media Streaming Engineer
 - Rust
 
 `2022-now`
 **Bluesea Network Co.,Ltd**, Hanoi, Vietnam, Founder
 
-- CEO and CTO, Decentralized and Streaming Engineer
+- CEO and CTO, Decentralized Network and Media Streaming Engineer
 - Rust, Typescript
 
 `2015-2023`
 **OWS Vietnam, Jsc**, Hanoi, Vietnam, Founder
 
-- CEO and CTO, Backend, Streaming Engineer
+- CEO and CTO, Backend, Media Streaming Engineer
 - Rust, Typescript, C++, Java
 
 `2014`
