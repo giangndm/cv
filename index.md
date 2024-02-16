@@ -21,23 +21,18 @@ Founder at 8xFF (https://github.com/8xff/), open-source decentralized network an
 
 ### Experienced in
 
-Network: p2p and decentralized networks.
-
-Backend: chat and video conference services, IoT-related services.
-
-Streaming: WebRTC SFU, SIP, and RTMP.
-
-Languages: Rust, C++, Typescript, Java.
+- **Network**: P2P and decentralized networks.
+- **Backend**: Chat and video conference services, IoT-related services, API server.
+- **Streaming**: WebRTC SFU, SIP, and RTMP.
+- **Frontend**: WebRTC, React, React Native.
+- **Languages**: Rust, C++, TypeScript, Java.
 
 ### Research interests
 
-P2P and decentralized network and applications.
-
-High-performance, scalable, and low-latency media server.
-
-System architecture and design.
-
-Storage and content delivery network.
+- P2P and decentralized network and applications.
+- High-performance, scalable, and low-latency media server.
+- System architecture and design.
+- Storage and content delivery network.
 
 ## Highlight projects
 
@@ -49,8 +44,9 @@ Storage and content delivery network.
 Bluesea Ltd, Research and develop **a decentralized network for global scale realtime multimedia communications**. Create new routing algorithm which solves latency and scale problems in decentralized networks, especially in realtime multimedia communications. Submit patent for the new routing algorithm. All services are built with Rust.
 
 `2020`
-OWS Vietnam, Jsc, Create **a CCTV backend and edge module**. Optimized for low-latency and low-spec edge devices with lightweight C++ WebRTC library.
-OWS Vietnam, Jsc, Develop **a modular VoIP system with SIP and WebRTC**.
+OWS Vietnam, Jsc, Designed and developed **A CCTV cloud platform**. Optimized for low-latency and low-spec edge devices with lightweight C++ WebRTC library. Support both live view and recording.
+
+OWS Vietnam, Jsc, Designed and developed **a modular VoIP system with SIP and WebRTC** with NodeJS and Freeswitch.
 
 `2016`
 OWS Vietnam, Jsc, Develop **a scalable and low latency WebRTC SFU media-server** with C++.
