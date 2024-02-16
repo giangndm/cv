@@ -26,13 +26,14 @@ Decentralized Network and Media Streaming Engineer at 8xFF (https://github.com/8
 - **Streaming**: WebRTC SFU, SIP, and RTMP.
 - **Frontend**: WebRTC, React, React Native.
 - **Languages**: Rust, C++, TypeScript, Java.
+- **Database**: MySQL, Redis.
 
 ### Research interests
 
 - P2P and decentralized network and applications.
 - High-performance, scalable, and low-latency media server.
 - System architecture and design.
-- Storage and content delivery network.
+- Database, Storage and content delivery network.
 
 ## Highlight projects
 
