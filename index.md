@@ -19,14 +19,14 @@ Male
 
 Decentralized Network and Media Streaming Engineer at 8xFF (https://github.com/8xff/), open-source decentralized network and media-server.
 
-### Experienced in
+### Skills
 
 - **Network**: P2P and decentralized networks.
 - **Backend**: Realtime, Streaming, IoT, API server.
 - **Streaming**: WebRTC SFU, SIP, and RTMP.
 - **Frontend**: WebRTC, React, React Native.
 - **Languages**: Rust, C++, TypeScript, Java.
-- **Database, Message Queue**: MySQL, Redis, Nats, Kafka.
+- **Database, Message Queue**: MySQL, Clickhouse, InfluxDB, Prometheus, Redis, Nats, Kafka.
 - **Infrastructure**: Linux, Docker, Kubernetes.
 
 ### Research interests
@@ -65,7 +65,7 @@ Topica Edtech Group, **Customize and scale BigBlueButton**, an open-source video
 - [**webrtc-rs: Rust WebRTC library**](https://github.com/webrtc-rs/webrtc): fixed performance bug.
 - [**str0m: Rust SAN I/O WebRTC Library**](https://github.com/algesten/str0m): fixed some bugs and added new features.
 - [**releaze-plz: Rust release automation tool**](https://github.com/MarcoIeni/release-plz): added new features.
-- [**atm0s-sdn**: Decentralized Overlay Nework](https://github.com/8xff/atm0s-sdn): core contributor.
+- [**atm0s-sdn**: Decentralized Overlay Network](https://github.com/8xff/atm0s-sdn): core contributor.
 - [**atm0s-media-server**: Decentralized Media Server](https://github.com/8xff/atm0s-media-server): core contributor.
 - [**atm0s-reverse-proxy**: Decentralized Reverse Proxy for IoT](https://github.com/8xff/atm0s-reverse-proxy): core contributor.
 
@@ -109,7 +109,7 @@ Giang Doan Minh Nguyen, Takuya Takimoto, Takuro Yonezawa, Jin Nakazawa, Kazunori
 `2023`
 Nguyen Doan Minh Giang, Nguyen Tuan Anh, Duong Thanh Binh, **Decentralized network for large scale realtime multimedia communications**, Bluesea Lte, Status: Pending in Vietnam
 
-## Experience
+## Experiences
 
 `2023-now`
 **8xFF Foundation**, Hanoi, Vietnam, Founder
