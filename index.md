@@ -22,24 +22,25 @@ Decentralized Network and Media Streaming Engineer at 8xFF (https://github.com/8
 ### Experienced in
 
 - **Network**: P2P and decentralized networks.
-- **Backend**: Chat and video conference services, IoT-related services, API server.
+- **Backend**: Realtime, Streaming, IoT, API server.
 - **Streaming**: WebRTC SFU, SIP, and RTMP.
 - **Frontend**: WebRTC, React, React Native.
 - **Languages**: Rust, C++, TypeScript, Java.
-- **Database**: MySQL, Redis.
+- **Database, Message Queue**: MySQL, Redis, Nats, Kafka.
+- **Infrastructure**: Linux, Docker, Kubernetes.
 
 ### Research interests
 
 - P2P and decentralized network and applications.
 - High-performance, scalable, and low-latency media server.
 - System architecture and design.
-- Database, Storage and content delivery network.
+- Blockchain, Media-Server, Database, Storage and content delivery network.
 
 ## Highlight projects
 
 `2023-now`
 
-8xFF Foundation, **Open-source decentralized network and media server for global scale streaming platform**, all services are built with Rust. The network is applied in the next generation of Lumi Vietnam IoT Platform, which serves nearly 100k concurrent devices.
+8xFF Foundation, **Open-source decentralized network and media server for global scale streaming platform**, all services are built with Rust.
 
 `2021-2023`
 Bluesea Network Co.,Ltd, Research and develop **a decentralized network for global scale realtime multimedia communications**. Create new routing algorithm which solves latency and scale problems in decentralized networks, especially in realtime multimedia communications. Submit patent for the new routing algorithm. All services are built with Rust.
@@ -59,12 +60,14 @@ OWS Vietnam, Jsc, Design and develop **a backend for an online interview service
 `2014`
 Topica Edtech Group, **Customize and scale BigBlueButton**, an open-source video conference system, to serve 1000 concurrent users.
 
-## Contributes and supports
+## Contributes
 
-- [__webrtc-rs: Rust WebRTC library__](https://github.com/webrtc-rs/webrtc): fixed performance bug.
-- [__str0m: Rust SAN I/O WebRTC Library__](https://github.com/algesten/str0m): fixed some bugs and added new features.
-- [__releaze-plz: Rust release automation tool__](https://github.com/MarcoIeni/release-plz): added new features.
-- [__Lumi Vietnam IoT Platform__](https://lumi.vn/): Trained technical team for Rust usage and design with SAN I/O mindset. Supported and reviewed the design and implementation of the new generation of Lumi Vietnam IoT Platform.
+- [**webrtc-rs: Rust WebRTC library**](https://github.com/webrtc-rs/webrtc): fixed performance bug.
+- [**str0m: Rust SAN I/O WebRTC Library**](https://github.com/algesten/str0m): fixed some bugs and added new features.
+- [**releaze-plz: Rust release automation tool**](https://github.com/MarcoIeni/release-plz): added new features.
+- [**atm0s-sdn**: Decentralized Overlay Nework](https://github.com/8xff/atm0s-sdn): core contributor.
+- [**atm0s-media-server**: Decentralized Media Server](https://github.com/8xff/atm0s-media-server): core contributor.
+- [**atm0s-reverse-proxy**: Decentralized Reverse Proxy for IoT](https://github.com/8xff/atm0s-reverse-proxy): core contributor.
 
 ## Education
 
