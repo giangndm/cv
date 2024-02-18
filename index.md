@@ -21,7 +21,7 @@ Decentralized Network and Media Streaming Engineer at 8xFF (https://github.com/8
 
 ### Skills
 
-- **Network**: P2P and decentralized networks.
+- **Network**: P2P and decentralized networks, eBPF firewall.
 - **Backend**: Realtime, Streaming, IoT, API server.
 - **Streaming**: WebRTC SFU, SIP, and RTMP.
 - **Frontend**: WebRTC, React, React Native.
