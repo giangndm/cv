@@ -17,7 +17,7 @@ Male
 
 ## Currently
 
-Decentralized Network and Media Streaming Engineer at 8xFF (https://github.com/8xff/), open-source decentralized network and media-server.
+Engaged in contributing to open-source projects while exploring potential collaborations.
 
 ### Skills
 
@@ -50,8 +50,11 @@ OWS Vietnam, Jsc, Designed and developed **A CCTV cloud platform**. Optimized fo
 
 OWS Vietnam, Jsc, Designed and developed **a modular VoIP system with SIP and WebRTC** with NodeJS and Freeswitch.
 
-`2016`
+`2018`
+OWS Vietnam, Jsc, Design and develop **a video conference system for e-learning**, resolving the challenge of recording all sessions with minimum overhead, and avoiding the need for media encode or decode..
+
 OWS Vietnam, Jsc, Develop **a scalable and low latency WebRTC SFU media-server** with C++.
+
 OWS Vietnam, Jsc, Create **a lightweight C++ WebRTC library** for servers and embedded systems.
 
 `2015`
