@@ -27,7 +27,7 @@ Engaged in contributing to open-source projects while exploring potential collab
 - **Frontend**: WebRTC, React, React Native.
 - **Languages**: Rust, C++, TypeScript, Java.
 - **Database, Message Queue**: MySQL, Clickhouse, InfluxDB, Prometheus, Redis, Nats, Kafka.
-- **Infrastructure**: Linux, Docker, Kubernetes.
+- **Infrastructure**: Linux, Docker, Kubernetes, Terraform.
 
 ### Research interests
 
