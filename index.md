@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Nguyen Doan Minh Giang's CV
+title: Giang Doan Minh NGUYEN's CV
 ---
 
-# Nguyen Doan Minh Giang
+# Giang Doan Minh NGUYEN
 
 Backend, Network, Streaming engineer.
 
