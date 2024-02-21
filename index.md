@@ -75,13 +75,13 @@ Topica Edtech Group, **Customize and scale BigBlueButton**, an open-source video
 ## Education
 
 `2011-2013`
-**Keio University, Japan**, Ubiquitous Computing - Tokuda Laboratory.
+**Keio University, Japan**, Bachelor's degree in Ubiquitous Computing - Tokuda Laboratory.
 
 - Thesis: [HUSTLE: Deploying A Secured Wireless Sensor Network by Light Communication with Smartphone](https://www.sfc.wide.ad.jp/thesis/2012/files/spider-publish-thesis.pdf)
-- Full Scholarship from HEDSPI project
+- Full Scholarship from HEDSPI Project, funded by the Vietnamese Government.
 
 `2008-2011`
-**Hanoi University of Sciences and Technologies, Vietnam.**
+**Hanoi University of Sciences and Technologies, Vietnam.**, Bachelor's degree in Vietnam – Japan Information Technology Program (HEDSPI)
 
 - [Higher Education Development Support Project on ICT (HEDSPI)](https://soict.hust.edu.vn/innovation/en/hedspi%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%80-2).
 
