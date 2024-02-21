@@ -84,6 +84,7 @@ Topica Edtech Group, **Customize and scale BigBlueButton**, an open-source video
 **Hanoi University of Sciences and Technologies, Vietnam.**, Bachelor's degree in Vietnam – Japan Information Technology Program (HEDSPI)
 
 - [Higher Education Development Support Project on ICT (HEDSPI)](https://soict.hust.edu.vn/innovation/en/hedspi%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%80-2).
+- Top 3 highest score in the entrance exam.
 
 ## Awards
 
