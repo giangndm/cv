@@ -39,9 +39,9 @@ Experienced software engineer with expertise in building distributed systems, de
 ## Highlight projects
 
 `2024-now`
-Lumi Home, Design and develop **A Decentralized Smart Home Protocol**, all services are built with Rust, Protobuf. This protocol enables direct device-to-device communication over local networks and internet relay, simplifying IoT device development and integration with third-party services and AI assistants.
+LUMI.,JSC, Design and develop **A Decentralized Smart Home Protocol**, all services are built with Rust, Protobuf. This protocol enables direct device-to-device communication over local networks and internet relay, simplifying IoT device development and integration with third-party services and AI assistants.
 
-Lumi Home, Designed and developed **A Decentralized IoT Relay Network** as a high-performance alternative to centralized MQTT using Rust, QUIC, and TCP/TLS. Built on [**atm0s-sdn**](https://github.com/8xff/atm0s-sdn), this solution achieves 10x lower latency while reducing infrastructure and maintenance costs. The network seamlessly handles device communications across both local and public networks without configuration changes, enabling efficient management of millions of Lumi-Home devices.
+LUMI.,JSC, Designed and developed **A Decentralized IoT Relay Network** as a high-performance alternative to centralized MQTT using Rust, QUIC, and TCP/TLS. Built on [**atm0s-sdn**](https://github.com/8xff/atm0s-sdn), this solution achieves 10x lower latency while reducing infrastructure and maintenance costs. The network seamlessly handles device communications across both local and public networks without configuration changes, enabling efficient management of millions of LUMI's devices.
 
 `2023-now`
 
@@ -120,11 +120,11 @@ Nguyen Doan Minh Giang, Nguyen Tuan Anh, Duong Thanh Binh, **Decentralized netwo
 ## Experiences
 
 `2024-now`
-**Lumi Home**, Hanoi, Vietnam, Technical Advisor
+**LUMI.,JSC**, Hanoi, Vietnam, Technical Advisor
 
-- Decentralized Relay Network
-- Decentralized IoT Protocol
-- Training and mentoring switch to Rust as main development language
+- Lead architect for decentralized IoT relay network
+- Design and develop decentralized IoT protocol
+- Technical advisor for Rust development and team training
 
 `2023-now`
 **8xFF Foundation**, Hanoi, Vietnam, Founder
