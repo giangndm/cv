@@ -15,9 +15,9 @@ Male
 | <a href="https://www.linkedin.com/in/giangndm/">LinkedIn</a>
 </div>
 
-## Currently
+## Professional Summary
 
-Engaged in contributing to open-source projects while exploring potential collaborations.
+Experienced software engineer with expertise in building distributed systems, decentralized networks, and real-time communication platforms.
 
 ### Skills
 
@@ -38,22 +38,27 @@ Engaged in contributing to open-source projects while exploring potential collab
 
 ## Highlight projects
 
+`2024-now`
+Lumi Home, Design and develop **A Decentralized Smart Home Protocol**, all services are built with Rust, Protobuf. This protocol enables direct device-to-device communication over local networks and internet relay, simplifying IoT device development and integration with third-party services and AI assistants.
+
+Lumi Home, Designed and developed **A Decentralized IoT Relay Network** as a high-performance alternative to centralized MQTT using Rust, QUIC, and TCP/TLS. Built on [**atm0s-sdn**](https://github.com/8xff/atm0s-sdn), this solution achieves 10x lower latency while reducing infrastructure and maintenance costs. The network seamlessly handles device communications across both local and public networks without configuration changes, enabling efficient management of millions of Lumi-Home devices.
+
 `2023-now`
 
-8xFF Foundation, **Open-source decentralized network and media server for global scale streaming platform**, all services are built with Rust.
+8xFF Foundation, Developed **an open-source decentralized network and media server platform** that scales globally for real-time streaming applications. Built entirely in Rust, this platform serves as a high-performance, cost-effective alternative to commercial solutions like Cloudflare Calls and Agora, offering enterprise-grade media streaming capabilities in a decentralized architecture.
 
 `2021-2023`
 Bluesea Network Co.,Ltd, Research and develop **a decentralized network for global scale realtime multimedia communications**. Create new routing algorithm which solves latency and scale problems in decentralized networks, especially in realtime multimedia communications. Submit patent for the new routing algorithm. All services are built with Rust.
 
 `2020`
-OWS Vietnam, Jsc, Designed and developed **A CCTV cloud platform**. Optimized for low-latency and low-spec edge devices with lightweight C++ WebRTC library. Support both live view and recording.
+OWS Vietnam, Jsc, Designed and developed **A CCTV cloud platform**. Optimized for low-latency and low-spec edge devices with lightweight C++ WebRTC library. Support both live view and recording. This service was used in all Lumi-Home CCTV devices across Vietnam. The core device is written in C++ and the cloud platform is written in Golang.
 
 OWS Vietnam, Jsc, Designed and developed **a modular VoIP system with SIP and WebRTC** with NodeJS and Freeswitch.
 
 `2018`
-OWS Vietnam, Jsc, Design and develop **a video conference system for e-learning**, resolving the challenge of recording all sessions with minimum overhead, and avoiding the need for media encode or decode..
+OWS Vietnam, Jsc, Design and develop **a video conference system for e-learning**, resolving the challenge of recording all sessions with minimum overhead, and avoiding the need for media encode or decode. All services are built with C++ and NodeJS.
 
-OWS Vietnam, Jsc, Develop **a scalable and low latency WebRTC SFU media-server** with C++.
+OWS Vietnam, Jsc, Develop **a scalable and low latency WebRTC SFU media-server** with C++ and NodeJS.
 
 OWS Vietnam, Jsc, Create **a lightweight C++ WebRTC library** for servers and embedded systems.
 
@@ -84,7 +89,6 @@ Topica Edtech Group, **Customize and scale BigBlueButton**, an open-source video
 **Hanoi University of Sciences and Technologies, Vietnam.**, Bachelor's degree in Vietnam – Japan Information Technology Program (HEDSPI)
 
 - [Higher Education Development Support Project on ICT (HEDSPI)](https://soict.hust.edu.vn/innovation/en/hedspi%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%80-2).
-- Top 3 highest score in the entrance exam.
 
 ## Awards
 
@@ -114,6 +118,13 @@ Giang Doan Minh Nguyen, Takuya Takimoto, Takuro Yonezawa, Jin Nakazawa, Kazunori
 Nguyen Doan Minh Giang, Nguyen Tuan Anh, Duong Thanh Binh, **Decentralized network for large scale realtime multimedia communications**, Bluesea Lte, Status: Pending in Vietnam
 
 ## Experiences
+
+`2024-now`
+**Lumi Home**, Hanoi, Vietnam, Technical Advisor
+
+- Decentralized Relay Network
+- Decentralized IoT Protocol
+- Training and mentoring switch to Rust as main development language
 
 `2023-now`
 **8xFF Foundation**, Hanoi, Vietnam, Founder
