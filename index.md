@@ -28,6 +28,7 @@ Experienced software engineer with expertise in building distributed systems, de
 - **Languages**: Rust, C++, TypeScript, Java.
 - **Database, Message Queue**: MySQL, Clickhouse, InfluxDB, Prometheus, Redis, Nats, Kafka.
 - **Infrastructure**: Linux, Docker, Kubernetes, Terraform.
+- **Cloud**: AWS, Azure.
 
 ### Research interests
 
@@ -179,4 +180,4 @@ Working: English, Japanese
 - National: Vietnamese
 - Location: Hanoi, Vietnam
 
-<br/>Last updated: 02/2024<br/><br/>
+<br/>Last updated: 11/2024<br/><br/>
