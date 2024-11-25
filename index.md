@@ -46,7 +46,7 @@ LUMI.,JSC, Designed and developed **A Decentralized IoT Relay Network** as a hig
 
 `2023-now`
 
-8xFF Foundation, Developed **an open-source decentralized network and media server platform** that scales globally for real-time streaming applications. Built entirely in Rust, this platform serves as a high-performance, cost-effective alternative to commercial solutions like Cloudflare Calls and Agora, offering enterprise-grade media streaming capabilities in a decentralized architecture.
+8xFF Foundation, Developed **an open-source decentralized network and media server platform** that scales globally for real-time streaming applications. Built entirely in Rust, this platform serves as a high-performance, cost-effective alternative to commercial solutions like Cloudflare Calls and Agora, offering enterprise-grade media streaming capabilities in a decentralized architecture. In particular, the routing algorithm can reduce cross-zone latency by up to 100ms (40%).
 
 `2021-2023`
 Bluesea Network Co.,Ltd, Research and develop **a decentralized network for global scale realtime multimedia communications**. Create new routing algorithm which solves latency and scale problems in decentralized networks, especially in realtime multimedia communications. Submit patent for the new routing algorithm. All services are built with Rust.
